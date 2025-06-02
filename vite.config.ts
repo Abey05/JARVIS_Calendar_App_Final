@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/jarvis-calendar-app/',
+  base: '/JARVIS_Calendar_App_Final/',
   plugins: [react()],
   resolve: {
     alias: {
